@@ -1,4 +1,5 @@
 # grocy-telegram-bot [![Build Status](https://travis-ci.com/markusressel/grocy-telegram-bot.svg?branch=master)](https://travis-ci.com/markusressel/grocy-telegram-bot) [![PyPI version](https://badge.fury.io/py/grocy-telegram-bot.svg)](https://badge.fury.io/py/grocy-telegram-bot)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarkusressel%2Fgrocy-telegram-bot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarkusressel%2Fgrocy-telegram-bot?ref=badge_shield)
 
 **grocy-telegram-bot** is a telegram bot that allows you to receive notifications
 and interact with [Grocy](https://github.com/grocy/grocy).
@@ -97,3 +98,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarkusressel%2Fgrocy-telegram-bot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarkusressel%2Fgrocy-telegram-bot?ref=badge_large)
